@@ -1,0 +1,10 @@
+C:\Users\Yavuz\Desktop\Yazılım\WinFormSnakeGame\WinFormSnakeGame\bin\Debug\WinFormSnakeGame.exe.config
+C:\Users\Yavuz\Desktop\Yazılım\WinFormSnakeGame\WinFormSnakeGame\bin\Debug\WinFormSnakeGame.exe
+C:\Users\Yavuz\Desktop\Yazılım\WinFormSnakeGame\WinFormSnakeGame\bin\Debug\WinFormSnakeGame.pdb
+C:\Users\Yavuz\Desktop\Yazılım\WinFormSnakeGame\WinFormSnakeGame\obj\Debug\WinFormSnakeGame.csproj.AssemblyReference.cache
+C:\Users\Yavuz\Desktop\Yazılım\WinFormSnakeGame\WinFormSnakeGame\obj\Debug\WinFormSnakeGame.Form1.resources
+C:\Users\Yavuz\Desktop\Yazılım\WinFormSnakeGame\WinFormSnakeGame\obj\Debug\WinFormSnakeGame.Properties.Resources.resources
+C:\Users\Yavuz\Desktop\Yazılım\WinFormSnakeGame\WinFormSnakeGame\obj\Debug\WinFormSnakeGame.csproj.GenerateResource.cache
+C:\Users\Yavuz\Desktop\Yazılım\WinFormSnakeGame\WinFormSnakeGame\obj\Debug\WinFormSnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\Desktop\Yazılım\WinFormSnakeGame\WinFormSnakeGame\obj\Debug\WinFormSnakeGame.exe
+C:\Users\Yavuz\Desktop\Yazılım\WinFormSnakeGame\WinFormSnakeGame\obj\Debug\WinFormSnakeGame.pdb
