@@ -1,5 +1,5 @@
 # Snake Game with C#
-This project made by me when i was 15 years old at 2023
+This project made by me when i was 14 years old at 2022
 
 ## Gif
 ![Snake Game Gif](https://raw.githubusercontent.com/yavuzyazici/C-ile-YilanOyunu-SnakeGame/main/WinFormSnakeGame/WinFormSnakeGame/dosyalar/snake.gif)
